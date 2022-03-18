@@ -109,3 +109,7 @@ div {text-align: center;
   div {
     cursor:url(myBall.cur),auto;
 }
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
