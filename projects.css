@@ -19,11 +19,11 @@ p {text-align: center;}
 div {text-align: center;}
 
 body {
-  background-image: url("starrygif.gif");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
+    background-image: url('starrygif1.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
 
   .topnav {
     background-color: white;
